@@ -1,0 +1,7 @@
+{
+  "name": "Auto Contact Saver",
+  "description": "Automatically saves new incoming call phone numbers directly to your contacts list if they do not already exist.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
+
